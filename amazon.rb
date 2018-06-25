@@ -70,5 +70,4 @@ def amazon_account
   end
 end
 
-amazon_account
 amazon_account 
